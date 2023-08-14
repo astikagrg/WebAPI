@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1692015914575" clover="3.2.0">
+  <project timestamp="1692015914575" name="All files">
+    <metrics statements="94" coveredstatements="83" conditionals="6" coveredconditionals="5" methods="8" coveredmethods="7" elements="108" coveredelements="95" complexity="0" loc="94" ncloc="94" packages="5" files="8" classes="8"/>
+    <package name="GITCL-1">
+      <metrics statements="19" coveredstatements="18" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="app.js" path="C:\Users\grgas\Downloads\GITCL-1\GITCL-1\app.js">
+        <metrics statements="19" coveredstatements="18" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="34" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="GITCL-1.config">
+      <metrics statements="8" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="connectDb.js" path="C:\Users\grgas\Downloads\GITCL-1\GITCL-1\config\connectDb.js">
+        <metrics statements="8" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="GITCL-1.controllers">
+      <metrics statements="45" coveredstatements="36" conditionals="6" coveredconditionals="5" methods="6" coveredmethods="6"/>
+      <file name="transactionCtrl.js" path="C:\Users\grgas\Downloads\GITCL-1\GITCL-1\controllers\transactionCtrl.js">
+        <metrics statements="29" coveredstatements="22" conditionals="4" coveredconditionals="3" methods="4" coveredmethods="4"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="38" count="2" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="51" count="2" type="stmt"/>
+        <line num="52" count="1" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+        <line num="55" count="1" type="stmt"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="58" count="1" type="stmt"/>
+        <line num="59" count="1" type="stmt"/>
+        <line num="63" count="2" type="stmt"/>
+      </file>
+      <file name="userController.js" path="C:\Users\grgas\Downloads\GITCL-1\GITCL-1\controllers\userController.js">
+        <metrics statements="16" coveredstatements="14" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="40" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="GITCL-1.models">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="transactionModel.js" path="C:\Users\grgas\Downloads\GITCL-1\GITCL-1\models\transactionModel.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
+        <line num="37" count="2" type="stmt"/>
+      </file>
+      <file name="userModel.js" path="C:\Users\grgas\Downloads\GITCL-1\GITCL-1\models\userModel.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="GITCL-1.routes">
+      <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="transactionRoutes.js" path="C:\Users\grgas\Downloads\GITCL-1\GITCL-1\routes\transactionRoutes.js">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+      </file>
+      <file name="userRoute.js" path="C:\Users\grgas\Downloads\GITCL-1\GITCL-1\routes\userRoute.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
